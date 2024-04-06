@@ -1,2 +1,2 @@
-# nist-parser
-parsing nist pdfs to automate stuff
+# pdfs-parser
+parsing pdfs to automate stuff
